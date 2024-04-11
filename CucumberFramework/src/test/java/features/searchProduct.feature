@@ -11,5 +11,4 @@ And product name matches with the landing page and offer page
 Examples:
 |vegName|
 |Tom|
-|Beet|
 
