@@ -1,0 +1,15 @@
+2024-04-11 22:08:14,771 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-11 22:09:12,827 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mina:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\minak\CucmberCICD\CucumberFramework\pom.xml.
+2024-04-11 22:09:12,827 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mina:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\minak\CucmberCICD\CucumberFramework\pom.xml.
+2024-04-11 22:09:13,833 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-11 22:09:13,833 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\minak\CucmberCICD\CucumberFramework\src\main\resources
+2024-04-11 22:09:13,836 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-11 22:09:13,840 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2024-04-11 22:09:15,148 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mina:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\minak\CucmberCICD\CucumberFramework\pom.xml.
+2024-04-11 22:09:15,542 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-11 22:09:15,542 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\minak\CucmberCICD\CucumberFramework\src\main\resources
+2024-04-11 22:09:15,544 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-11 22:09:15,547 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2024-04-11 22:09:16,855 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-11 22:09:16,855 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\minak\CucmberCICD\CucumberFramework\src\main\resources
+2024-04-11 22:09:16,857 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
