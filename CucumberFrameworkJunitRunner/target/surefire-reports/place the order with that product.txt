@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: place the order with that product
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 21.814 s <<< FAILURE! - in place the order with that product
+place the order with that product.place the order with that product #1  Time elapsed: 11.151 s  <<< FAILURE!
+org.junit.ComparisonFailure: Tomato expected:<[Tomato]> but was:<[Matching]>
+
+place the order with that product.place the order with that product #2  Time elapsed: 10.662 s  <<< FAILURE!
+org.junit.ComparisonFailure: Carrot expected:<[Carrot]> but was:<[Matching]>
+
